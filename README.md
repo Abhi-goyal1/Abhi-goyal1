@@ -1,8 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Abhi Goyal</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Codin" width="400" src="![image](https://user-images.githubusercontent.com/96677039/229363101-7b9b88ce-5bff-474a-8e05-67f4d2a4b1c6.png)
-">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2972130-Hello-World&psig=AOvVaw14TOoGAF9RPxRsWSeZGWjW&ust=1680534835387000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIClrKO-i_4CFQAAAAAdAAAAABAE">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-goyal1&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-goyal1" /> </p>
