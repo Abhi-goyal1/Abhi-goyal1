@@ -1,7 +1,8 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhi Goyal</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2972130-Hello-World&psig=AOvVaw14TOoGAF9RPxRsWSeZGWjW&ust=1680534835387000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIClrKO-i_4CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/96677039/229363001-2842d460-8230-4b08-b92e-b4922e2f0128.png)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-goyal1&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-goyal1" /> </p>
