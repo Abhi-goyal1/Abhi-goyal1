@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Abhi Goyal</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/96677039/229363001-2842d460-8230-4b08-b92e-b4922e2f0128.png)
+<img align="right" alt="Codin" width="400" src="![image](https://user-images.githubusercontent.com/96677039/229363101-7b9b88ce-5bff-474a-8e05-67f4d2a4b1c6.png)
 ">
 
 
