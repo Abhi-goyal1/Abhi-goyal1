@@ -30,6 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-goyal1&show_icons=true&locale=en&layout=compact" alt="abhi-goyal1" /></p>
 <br>
+<br>
+<br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-goyal1&show_icons=true&locale=en" alt="abhi-goyal1" /></p>
 
