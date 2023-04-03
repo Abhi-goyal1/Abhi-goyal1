@@ -40,6 +40,4 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-goyal1&show_icons=true&locale=en" alt="abhi-goyal1" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-goyal1&" alt="abhi-goyal1" /></p>
-<img src="https://raw.githubusercontent.com/A/A/blob/output/snake.svg" alt="Snake animation" />
 
-###
