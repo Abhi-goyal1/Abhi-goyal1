@@ -38,9 +38,9 @@
 <br>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-goyal1&show_icons=true&locale=en" alt="abhi-goyal1" /></p> -->
-
+<h3>My GitHub Stats.</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-goyal1&" alt="abhi-goyal1" /></p>
 
-
+<h3>See How Snake Eating My Contribution Graph.</h3>
 
 ![snake gif](https://github.com/Abhi-goyal1/Abhi-goyal1/blob/output/github-contribution-grid-snake.gif)
