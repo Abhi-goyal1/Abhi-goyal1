@@ -41,3 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-goyal1&" alt="abhi-goyal1" /></p>
 
+
+
+![snake gif](https://github.com/Abhi-goyal1/Abhi-goyal1/blob/output/github-contribution-grid-snake.gif)
