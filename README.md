@@ -43,4 +43,4 @@
 
 <h3>See How Snake Eating My Contribution Graph.</h3>
 
-![snake gif](https://github.com/Abhi-goyal1/Abhi-goyal1/blob/output/github-contribution-grid-snake.gif)
+
