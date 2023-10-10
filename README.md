@@ -41,6 +41,5 @@
 <h3>My GitHub Stats.</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-goyal1&" alt="abhi-goyal1" /></p>
 
-<h3>See How Snake Eating My Contribution Graph.</h3>
 
 
