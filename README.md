@@ -1,7 +1,7 @@
 
 
+![brandbird](https://github.com/Abhi-goyal1/Abhi-goyal1/assets/96677039/3a4d90b6-65e9-4689-8d7e-c560c3511fb4)
 
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Abhi Goyal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
